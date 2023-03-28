@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023flor",
+      "defaultValue": "2023tnkn",
       "required": "true",
       "disabled": "true"
     },

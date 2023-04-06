@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023tnkn",
+      "defaultValue": "2023alhu",
       "required": "true",
       "disabled": "true"
     },
